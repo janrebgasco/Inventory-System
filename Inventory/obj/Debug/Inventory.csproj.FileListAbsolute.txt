@@ -1,0 +1,13 @@
+c:\users\admin\documents\visual studio 2012\Projects\Inventory\Inventory\bin\Debug\Inventory.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\Inventory\Inventory\bin\Debug\Inventory.exe
+c:\users\admin\documents\visual studio 2012\Projects\Inventory\Inventory\bin\Debug\Inventory.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Inventory\Inventory\obj\Debug\Inventory.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\Inventory\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\Inventory\Inventory\obj\Debug\Inventory.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\Inventory\Inventory\obj\Debug\Inventory.exe
+c:\users\admin\documents\visual studio 2012\Projects\Inventory\Inventory\obj\Debug\Inventory.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Inventory\Inventory\obj\Debug\Inventory.home.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Inventory\Inventory\obj\Debug\Inventory.floor_plan.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Inventory\Inventory\obj\Debug\Inventory.Form3.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Inventory\Inventory\obj\Debug\Inventory.schedule.resources
+C:\Users\admin\documents\visual studio 2012\Projects\Inventory\Inventory\obj\Debug\Inventory.lr1.resources
